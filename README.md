@@ -13,3 +13,7 @@ This lab provides a very good (but very basic) intro to Deploying Azure resource
 ## Hands On Labs
 
 [Hands On Labs](./labs/readme.md)
+
+## Reference
+
+[Another ADO YML Lab by Microsoft Employee](https://github.com/lluppesms/adopac)
