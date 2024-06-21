@@ -40,7 +40,10 @@ Deploy the [01-simplest-pipeline.yml](../.azdo/pipelines/01-simplest-pipeline.ym
 
 **Step 8:** Edit the pipeline and now change the StorageAccountName value on line 18 to be unique to you. This will create a resource in Azure that must be globally unique.
 
-
 ![Step 8](assets/images/NewPipeline-8.jpg)
 
 **Step 9:** The pipeline can now be run and (assuming your service connection is right!) you should create a new storage account in your resource group.
+
+---
+
+[Next Lab](./Lab_02.md) | [Previous Lab](./Lab_00.md) | [Table of Contents](./README.md)

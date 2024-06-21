@@ -9,3 +9,7 @@ Note that now the [03-pipeline-with-variable-file.yml](../.azdo/pipelines/03-pip
 Deploy the [03-pipeline-with-variable-file.yml](../.azdo/pipelines/03-pipeline-with-variable-file.yml) using the steps in [Deploy a YML Pipeline](./CreateNewPipeline.md).
 
 The pipeline can now be run and it should use the storage account name, resource group name, and all the other values in the variable file.
+
+---
+
+[Next Lab](./Lab_04.md) | [Previous Lab](./Lab_02.md) | [Table of Contents](./README.md)

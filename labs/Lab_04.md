@@ -9,3 +9,7 @@ Deploy the [04-pipeline-with-bicep-parm-file.yml](../.azdo/pipelines/04-pipeline
 The pipeline can now be run and it should use the storage account name from the Bicep Parameters file, and the resource group name and all the other values in the YML variable file.
 
 We're getting closer to a more generic pipeline that can be used in multiple environments, but it's still using one file which is hard-coded.
+
+---
+
+[Next Lab](./Lab_05.md) | [Previous Lab](./Lab_03.md) | [Table of Contents](./README.md)

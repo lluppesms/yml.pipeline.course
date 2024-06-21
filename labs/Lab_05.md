@@ -15,3 +15,7 @@ Deploy the [05-pipeline-merging-variable-file-and-bicep-parm-file.yml](../.azdo/
 The pipeline can now be run and it should will merge the storage account name from the YML variable file into a 'parameterized' Bicep Parameters file, and the resource group name and all the other values in the YML variable file.
 
 We're getting closer to a more generic pipeline that can be used in multiple environments, but it's still using one file which is hard-coded.
+
+---
+
+[Next Lab](./Lab_06.md) | [Previous Lab](./Lab_04.md) | [Table of Contents](./README.md)

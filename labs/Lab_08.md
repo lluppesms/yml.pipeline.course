@@ -7,3 +7,7 @@ Deploy 08-pipeline-build-deploy-app.yml...
 Lab instructions not completed yet...!
 
 This lab needs instructions on how to create a variable group.
+
+---
+
+[Next Lab](./Lab_09.md) | [Previous Lab](./Lab_07.md) | [Table of Contents](./README.md)

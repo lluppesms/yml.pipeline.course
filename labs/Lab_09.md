@@ -7,3 +7,7 @@ Deploy 09-pipeline-build-deploy-app.yml...
 Lab instructions not completed yet...!
 
 This is pretty much the same as Lab 8, but shows dependencies between stages.
+
+---
+
+[Next Lab](./Lab_10.md) | [Previous Lab](./Lab_08.md) | [Table of Contents](./README.md)

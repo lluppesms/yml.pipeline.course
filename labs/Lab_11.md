@@ -3,3 +3,7 @@
 In this lab we will create the a YML pipeline that can get kicked off whenever a PR is submitted as part of the PR.
 
 This is an example to view - there are no instructions on implementing it.
+
+---
+
+[Next Lab](./Lab_12.md) | [Previous Lab](./Lab_10.md) | [Table of Contents](./README.md)

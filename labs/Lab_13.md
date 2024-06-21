@@ -3,3 +3,7 @@
 In this lab we will create the a YML pipeline that deploys a pre-existing build. |
 
 This is an example to view - there are no instructions on implementing it.
+
+---
+
+[Previous Lab](./Lab_12.md) | [Table of Contents](./README.md)
