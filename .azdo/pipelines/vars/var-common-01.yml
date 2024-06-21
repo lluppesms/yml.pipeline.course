@@ -13,6 +13,6 @@ variables:
   - name: bicepFileName
     value: 'storageaccount.bicep'
   - name: storageAccountName
-    value: 'llldemostorage01'
+    value: 'xxxdemostorage01'
   - name: storageSku
     value: 'Standard_LRS'
